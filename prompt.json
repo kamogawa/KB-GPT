@@ -1,0 +1,7 @@
+{
+  "_type": "prompt",
+  "template": "{country}の首都はどこ？",
+  "input_variables": [
+      "country"
+  ]
+}
